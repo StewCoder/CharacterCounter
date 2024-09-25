@@ -1,0 +1,2 @@
+To run this program you input a string and it will output the highest character count shown. 
+In order to build it, take the Hw1.cpp file in src and import it to your ide (Online C++ IDE works to) and run it.
